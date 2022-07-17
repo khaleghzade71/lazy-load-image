@@ -1,0 +1,14 @@
+#container{
+    width:600px;
+    height: 400px;
+    overflow: auto;
+    margin: 100px auto;
+    border:1px solid gray;
+    padding: 20px;
+}
+#container .figure{
+    width:500px;
+}
+#container .figure .figure__image{
+    width:100%;
+}
